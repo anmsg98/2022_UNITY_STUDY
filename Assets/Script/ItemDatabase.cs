@@ -20,3 +20,10 @@ public class ItemData
     public Sprite itemThumbnail;
 }
 
+public class SwordData
+{
+    public string itemName;
+    public int itemLevel;
+    public float attackPower;
+}
+

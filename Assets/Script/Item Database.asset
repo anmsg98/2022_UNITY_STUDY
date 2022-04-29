@@ -26,7 +26,7 @@ MonoBehaviour:
     itemDefaultDur: 0
     itemThumbnail: {fileID: 0}
   - itemName: Bow
-    itemLevel: 10
+    itemLevel: 30
     itemDefaultDur: 0
     itemThumbnail: {fileID: 0}
   - itemName: Gun
